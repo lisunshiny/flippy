@@ -2,7 +2,7 @@
 
  add this to your bash profile
  
- `alias flippy='ruby ~/Desktop/flippy/flippy.rb'`
+ `alias flippy='ruby ~/path/to/flippy/flippy.rb'`
  
  to run:
  
